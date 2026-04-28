@@ -1,0 +1,1161 @@
+Argilla: I have never seen anything of that nature.
+
+------------------------------------------------------------
+
+(Argilla hands Serph the scanner.)
+
+------------------------------------------------------------
+
+Argilla: Harley is present.
+
+------------------------------------------------------------
+
+Argilla: New recruits are always available, but a leader is irreplaceable.
+         Remember that.
+
+------------------------------------------------------------
+
+Argilla: *Coughs* My chest is on fire.
+
+------------------------------------------------------------
+
+Argilla: She did not have a Tag Ring.
+         Who could she be?
+
+------------------------------------------------------------
+
+Argilla: I will go.
+         I want an explanation.
+
+------------------------------------------------------------
+
+%Cielo: I feel like I have met her before.
+        Argilla shares this sentiment.
+
+------------------------------------------------------------
+
+%Argilla: I have not felt well since we returned...
+
+------------------------------------------------------------
+
+%Argilla: Muladhara is Embryon's territory.
+          It is the smallest area, sandwiched between the Vanguards' and
+          Maribel's sectors.
+
+------------------------------------------------------------
+
+%Argilla: Something happened here. I want to know what that was.
+
+------------------------------------------------------------
+
+*Serph, Heat, and Argilla hide behind some rubbles and survey the area.*
+
+------------------------------------------------------------
+
+Argilla: Something is wrong.
+         There are no guards.
+
+------------------------------------------------------------
+
+%Argilla: They are entirely vulnerable.
+          What happened to the Vanguards?
+
+------------------------------------------------------------
+
+Argilla: Harley... What are you... saying?
+
+------------------------------------------------------------
+
+Argilla: Don't.
+
+------------------------------------------------------------
+
+Argilla: Stop. Be quiet.
+
+------------------------------------------------------------
+
+Argilla: Shut up!
+
+------------------------------------------------------------
+
+*Argilla fires her gun in rage, killing Harley's men.*
+
+------------------------------------------------------------
+
+Argilla: I... couldn't have.
+         No... Not me...
+         I didn't... do that.
+         I didn't... eat those people. I couldn't have!
+         It wasn't me!
+
+------------------------------------------------------------
+
+(Argilla is taken over by her emotion, her eyes glowed.
+ Her self has awakened completely.)
+
+------------------------------------------------------------
+
+(Argilla is sickened by the thoughts of eating the fallen.
+ She is nausiated and shaking.)
+
+------------------------------------------------------------
+
+Argilla: What's... What's happening to us?
+         No, I... I can't eat them.
+         I can't eat them.
+
+------------------------------------------------------------
+
+%Argilla: Let us find Harley, Serph. Perhaps he can explain this strange
+          power...
+
+------------------------------------------------------------
+
+Argilla: Harley, tell us what's going on!
+
+------------------------------------------------------------
+
+Argilla: I feel... so weak...
+         Serph, we must get back to the base.
+
+------------------------------------------------------------
+
+%Argilla: Get back... to the base.
+
+------------------------------------------------------------
+
+%Argilla: That thing and its... light.  That's why we...
+
+------------------------------------------------------------
+
+(The Party returns to the Base. Serph carries a weakened Argilla on his back.)
+
+------------------------------------------------------------
+
+(Gale kneels in her arms as he slowly returns to normal.
+ Argilla begins to return to normal as well.)
+
+------------------------------------------------------------
+
+Argilla: You came to help us...? From where...?
+
+------------------------------------------------------------
+
+Argilla: The thing is...
+         I've heard that song somewhere.
+
+------------------------------------------------------------
+
+Argilla: But, as long as she's here, we'll be safe from one another.
+         We may even be able to return to normal...
+
+------------------------------------------------------------
+
+Argilla: So... we'll be this way forever?
+
+------------------------------------------------------------
+
+%Argilla: They summoned every leader...? That isn't normal.
+
+------------------------------------------------------------
+
+%Argilla: Heat and I don't... sound the same.
+          Heat is far harsher than before. I wonder how different I seem
+          to him...
+          Haven't I always talked like this?
+
+------------------------------------------------------------
+
+%Argilla: *Looking at a small black creature* What is this?
+
+------------------------------------------------------------
+
+%Argilla: Something happened, didn't it?
+          Heat, we need to get back to headquarters.
+
+------------------------------------------------------------
+
+%Argilla: A defeated Tribe follows the leader of the victorious Tribe.
+          That's the law.
+
+------------------------------------------------------------
+
+%Argilla: So now, we don't just kill people, we have to devour them too!?
+          Eat... or be eaten...
+          How could we possibly deserve something like this!?
+
+------------------------------------------------------------
+
+%Argilla: And, the color of her eyes... Where did she come from?
+
+------------------------------------------------------------
+
+Argilla: Atma? Child of Purgatory?
+         Now what do we do?
+
+------------------------------------------------------------
+
+Argilla: I just want to be normal.
+         I'll do anything to find a cure for this curse!
+
+------------------------------------------------------------
+
+Argilla: Easier said than done.
+         What's your plan?
+
+------------------------------------------------------------
+
+Argilla: You mean... We're going to side with our enemy?
+
+------------------------------------------------------------
+
+Argilla: So, "Our enemy's enemy is our friend."
+         You've certainly changed.
+
+------------------------------------------------------------
+
+Argilla: It doesn't seem right...
+                         ...but so be it.
+
+------------------------------------------------------------
+
+%Argilla: I've made up my mind...
+          If I let myself die, then I'll never be normal again.
+
+------------------------------------------------------------
+
+%Argilla: Now that I think about it, everyone has been acting strangely
+          since receiving Atma.
+
+------------------------------------------------------------
+
+%Argilla: I agree... Staying here only brings back bad memories.
+
+------------------------------------------------------------
+
+%Argilla: Why are we here, or all places?
+          Serph, try to keep our battles to a minimum.
+
+------------------------------------------------------------
+
+%Argilla: We can't let them find Sera. Let's hurry back.
+
+------------------------------------------------------------
+
+Argilla: So, then... You're the same as us.
+
+------------------------------------------------------------
+
+Argilla: What's "cursed?"
+         Who is this "god?"
+
+------------------------------------------------------------
+
+Argilla: Are you sad?
+
+------------------------------------------------------------
+
+Argilla: I'm not sure... You just... seemed that way.
+
+------------------------------------------------------------
+
+Argilla: Wait, Jinana!
+
+------------------------------------------------------------
+
+%Argilla: We didn't come here to fight. We need to prove that to Jinana.
+
+------------------------------------------------------------
+
+Argilla: Get it, now?
+         You'll be better of if you help us out.
+
+------------------------------------------------------------
+
+Argilla: Jinana, we didn't come here to fight against you!
+
+------------------------------------------------------------
+
+Argilla: Heat!
+
+------------------------------------------------------------
+
+Argilla: Why...? I don't want to.
+         I don't like needless killing.
+
+------------------------------------------------------------
+
+Argilla: Argilla.
+
+------------------------------------------------------------
+
+Jinana: Argilla. I accept your Tribe's proposal.
+        The Maribel will ally themselves with the Embryon.
+
+------------------------------------------------------------
+
+Argilla: We thank you, Jinana.
+
+------------------------------------------------------------
+
+Argilla: ...So that's why they can focus on attacking your Tribe.
+
+------------------------------------------------------------
+
+Argilla: That's no good. What do we do?
+
+------------------------------------------------------------
+
+%Member of the Embryon (purple hair):
+     I agree with the group.
+     I may be echoing Ms. Argilla, but I don't want to take part
+     in manslaughter.
+
+------------------------------------------------------------
+
+%Argilla: Hey, Serph.
+          We don't need to fight Jinana any more, right?
+
+------------------------------------------------------------
+
+%Argilla: Wait a minute, Gale. We can trust Jinana.
+          We shouldn't fight if we don't really need to...
+
+------------------------------------------------------------
+
+%Argilla: I'll stop you if you even try it.
+
+------------------------------------------------------------
+
+%Argilla: Jinana's men will be heading out, soon.
+          If we don't hurry, we'll be left behind.
+
+------------------------------------------------------------
+
+%Argilla: I guess we'll need to do this Jinana's way.
+
+------------------------------------------------------------
+
+Argilla: First a pitfall, then toxic gas... These traps are pretty elaborate.
+
+------------------------------------------------------------
+
+Argilla: So much for the traps. Now, we need to find Mick...
+
+------------------------------------------------------------
+
+Argilla: -- He what?
+
+------------------------------------------------------------
+
+Argilla: We're required to obey our leaders by law!
+         How could he betray her?
+
+------------------------------------------------------------
+
+Argilla: Heat!
+
+------------------------------------------------------------
+
+Argilla: Serph, we can't leave Jinana. Let's rescue her.
+
+------------------------------------------------------------
+
+%Argilla: Jinana and the Maribel should be at the front gate.
+          Let's hurry, Serph.
+
+------------------------------------------------------------
+
+Argilla: Jinana, are you...
+
+------------------------------------------------------------
+
+(Jinana began to loose control and change. She pushes Argilla aside...)
+
+------------------------------------------------------------
+
+Argilla: Jinana--?
+
+------------------------------------------------------------
+
+Argilla: Jinana...
+
+------------------------------------------------------------
+
+(Jinana whips her demonic vines at Argilla, barely missing her.)
+
+------------------------------------------------------------
+
+(With no choice, Argilla conceeds and changes into her demon form.)
+
+------------------------------------------------------------
+
+*Argilla kneels beside Jinana.*
+
+------------------------------------------------------------
+
+Argilla: Jinana...
+
+------------------------------------------------------------
+
+Argilla: There's a girl at our base who can help you control this power.
+         It won't be like this anymore.
+         You and I get along don't we? 
+         I'm sure the others will like you as well.
+         Come with us... Okay? Come and see Sera... Please...?
+
+------------------------------------------------------------
+
+(Argilla's tears fall upon Jinana's cheek.)
+
+------------------------------------------------------------
+
+Argilla: I... I don't know... why.
+         They keep coming... I can't stop, Jinana.
+
+------------------------------------------------------------
+
+(Jinana holds a hand to Argilla's cheek.)
+
+------------------------------------------------------------
+
+Jinana: Argilla, do not be sad.
+        Finally... I have become... your comrade.
+
+------------------------------------------------------------
+
+Argilla: Comrade?
+
+------------------------------------------------------------
+
+*Heat walks over to Argilla.*
+
+------------------------------------------------------------
+
+*Argilla slaps Heat across the face.*
+
+------------------------------------------------------------
+
+Argilla: We're finding Mick.
+         Nirvana's suppose to be paradise, right?
+         We'll return to normal. Nobody will suffer like this anymore.
+         That's it... I'm tired of this place.
+
+------------------------------------------------------------
+
+%Argilla: I finally understand what Sera meant when she said she came here
+          to help us.
+          Her song is the only thing preventing us from losing our grip
+          on humanity.
+
+------------------------------------------------------------
+
+%Argilla: Comrades...
+          I wonder if we're "comrades" too.
+
+------------------------------------------------------------
+
+%Argilla: I wonder if leaving Jinana there was right...
+
+------------------------------------------------------------
+
+Argilla: Those who die rise to the clouds and fall back to the
+                         Junkyard as rain.
+                         That's natural... But, it feels like I'm forgetting
+                         something important.
+
+------------------------------------------------------------
+
+Argilla: I know. Isn't there... something you do when a
+                         person dies?
+                         And, why does my... chest hurt?
+
+------------------------------------------------------------
+
+%Mysterous Cat: > It's that animal.
+                > Its eyes seem to be filled with compassion for Argilla.
+
+------------------------------------------------------------
+
+(Argilla noticed Gale's arrival with Embryon members.)
+
+------------------------------------------------------------
+
+Argilla: Gale!
+         Why're you here?
+
+------------------------------------------------------------
+
+(Argilla became irritated with Gale's being unmoved by the turn of events.)
+
+------------------------------------------------------------
+
+Argilla: Plan! Plan! Plan!
+         How can you be like that!? Our comrade died!
+
+------------------------------------------------------------
+
+*Argilla grabs Gale in anger.*
+
+------------------------------------------------------------
+
+*Argilla lets go of Gale and walks away.*
+
+------------------------------------------------------------
+
+Argilla: We're going after Mick. Don't try to stop us.
+
+------------------------------------------------------------
+
+%Argilla: Ready, Serph?
+
+------------------------------------------------------------
+
+Argilla: What's up with these guys?
+         Where the hell is Mick!?
+
+------------------------------------------------------------
+
+Argilla: A diversion...? What do you mean? We're outnumbered.
+
+------------------------------------------------------------
+
+*Argilla held Bat down on the ground.*
+
+------------------------------------------------------------
+
+(Bat taunts Argilla and mimics her tone of voice...)
+
+------------------------------------------------------------
+
+(Argilla begins to turn back to normal.
+ Bat kicks her away and escapes into the sky.)
+
+------------------------------------------------------------
+
+%Argilla: What should I do? It's all my fault...
+
+------------------------------------------------------------
+
+%Argilla: Serph, worry about Sera for now.
+
+------------------------------------------------------------
+
+%Argilla: Enough, already! We don't have time for lectures!
+
+------------------------------------------------------------
+
+%Argilla: I'm an idiot for letting someone like him trick me again...
+
+------------------------------------------------------------
+
+%Gale: Has Argilla been like that all along...?
+       I doubt she can still operate at full capacity.
+
+------------------------------------------------------------
+
+%Argilla (tendint to the girl): Serph, I think this girl will make it!
+
+------------------------------------------------------------
+
+Argilla: That's enough!
+
+------------------------------------------------------------
+
+Argilla: Heat!
+
+------------------------------------------------------------
+
+Argilla: You should rest here. You won't be much help if you're hurt.
+
+------------------------------------------------------------
+
+%Argilla: Everything's going to change. Sera will guide us...
+          ...whether she knows it or not.
+
+------------------------------------------------------------
+
+%Argilla: Coordinate 136... That's where the ruins are.
+          They're using Sera as bait to lure us into their trap.
+
+------------------------------------------------------------
+
+%Argilla: They're going to trap you by using Sera as a shield.
+          You should really stay here...
+          But, I know you aren't going to listen.
+
+------------------------------------------------------------
+
+%Argilla: Serph... Do you think Sera will go along with Mick's plan?
+          Won't they lose their powers, as well?
+
+------------------------------------------------------------
+
+%Argilla: You like this place that much? 
+          Why? Nothing here is worthwhile.
+
+------------------------------------------------------------
+
+%Argilla: I still don't like devouring... 
+          But, how can we fight if we lose our powers?
+
+------------------------------------------------------------
+
+%Argilla: What's this building? I've seen it somewhere before.
+
+------------------------------------------------------------
+
+Argilla: Heat, no! you can't trust that traitor!
+
+------------------------------------------------------------
+
+Argilla: What the--!?
+
+------------------------------------------------------------
+
+Argilla: I knew it!
+
+------------------------------------------------------------
+
+Argilla: Cielo!
+
+------------------------------------------------------------
+
+Argilla: Serph, what was it Heat said he'd do back there
+
+------------------------------------------------------------
+
+Argilla: Well, it looks like Bat got away.
+
+------------------------------------------------------------
+
+Argilla: Are you joking! Bat makes me sick!
+
+------------------------------------------------------------
+
+Argilla: As far as I know, it means you aren't serious.
+
+------------------------------------------------------------
+
+Argilla: Well, at least everyone's alright now.
+
+------------------------------------------------------------
+
+Argilla: We're comrades, am I right?
+
+------------------------------------------------------------
+
+Argilla: Oh hush, that's enough from you.
+
+------------------------------------------------------------
+
+Argilla: Try speaking up for a change.
+                         Well, you know what he means. Don't worry about
+                         it, Sera.
+
+------------------------------------------------------------
+
+Argilla: Bat and the Brutes will probably come after Sera again.
+         What do we do, Serph?
+
+------------------------------------------------------------
+
+%Argilla: That bastard was planning to use Mick all along.
+          People are nothing but tools to him. I won't let him get away
+          with that...
+
+------------------------------------------------------------
+
+%Argilla: I guess this is goodbye for awhile.
+          Relocation to a new base never used to affect me, but now...
+          It makes me sad.
+
+------------------------------------------------------------
+
+%Argilla: Hm... Has Sera eaten anything since we found her?
+
+------------------------------------------------------------
+
+%Argilla: What's that girl's problem?
+          She's ticking me off.
+
+------------------------------------------------------------
+
+%Sera: Serph, I think Argilla is feeling jealous...
+
+------------------------------------------------------------
+
+%Argilla: I wonder if Jinana has already risen to the clouds...
+
+------------------------------------------------------------
+
+%Argilla: Cielo said that a cat warned him we were in danger...
+          But, how? Isn't a cat a small animal?
+
+------------------------------------------------------------
+
+%Argilla: That's a ship, isn't it?
+          Don't they float... in the... ...ocean?
+
+------------------------------------------------------------
+
+Heat: You think so, too...
+                      Sera, Argilla, Cielo -- all of us...
+                      Doesn't it feel like we've been on this thing before?
+
+------------------------------------------------------------
+
+Argilla: They show up expecting to find Sera, and... boom!
+
+------------------------------------------------------------
+
+Argilla and Cielo: Huh!?
+
+------------------------------------------------------------
+
+(It was Argilla in Sera's clothes... She smiles and poses.)
+
+------------------------------------------------------------
+
+*Cielo tries his best to gesture frantically how Argilla is nothing 
+ like Sera.*
+
+------------------------------------------------------------
+
+Sera (Argilla): Well, excuse me.
+
+------------------------------------------------------------
+
+*Argilla knocks Cielo upside the head.*
+
+------------------------------------------------------------
+
+Gale (To Argilla): Remain here and intercept Bat.
+                   He is sure to enter through the windows.
+
+------------------------------------------------------------
+
+Sera (Argilla): Understood.
+
+------------------------------------------------------------
+
+> Heat and Argilla left the party.
+
+------------------------------------------------------------
+
+Gale: Leave this sector to Argilla.
+       We must proceed to the bottom of the ship.
+
+------------------------------------------------------------
+
+Gale: After we plant an explosive on each floor, we will join Argilla
+      in the hall.
+
+------------------------------------------------------------
+
+Argilla's Voice: Too bad Sera isn't here, sucker.
+                 Flying cana't save your ass in here. 
+                 There's no escaping this time.
+
+------------------------------------------------------------
+
+Argilla: Why did you sell Jinana out!?
+
+------------------------------------------------------------
+
+(Argilla remebers Jinana's dying image in her mind.)
+
+------------------------------------------------------------
+
+(Argilla sees Bat's bloodied fangs.)
+
+------------------------------------------------------------
+
+(Argilla flails her whips at Bat in rage. She huffs as Bat evades her
+attacks.)
+
+------------------------------------------------------------
+
+Gale: Good. Explosives have been set on all floors.
+      All that remains is to escape from the ship after meeting up
+      with Argilla.
+
+------------------------------------------------------------
+
+Argilla: Serph!
+
+------------------------------------------------------------
+
+*Boss Battle: Asura Camazotz*
+> Argilla participates in the battle.
+Camazotz: No! I won't die...
+          You should be the ones...!
+Camazotz: Heh heh, look out below!
+
+------------------------------------------------------------
+
+Argilla: Do you realize... we could share the same fate as them?
+         We all hate...
+         We all fight...
+         We all devour...
+         ...just to survive
+         But eventuall we all die.
+         I couldn't... defend myself.
+         We aren't any different from him!
+
+------------------------------------------------------------
+
+(Argilla turns to Serph and lightly holds him, crying into his chest.)
+
+------------------------------------------------------------
+
+Argilla: What's the point, then? Why live like this?
+         Why are we even alive!?
+         Serph... Tell me...
+
+------------------------------------------------------------
+
+%Argilla: Sera called the song "Prayer"...
+          "Teach us who we are, and guide us to the truth."
+          That's what the words mean.
+          But, she also said that it can't reach the heavens, because it's
+          missing something important...
+
+------------------------------------------------------------
+
+Gale: Argilla... Tell me, would you follow Varin if he defeated Serph?
+
+------------------------------------------------------------
+
+Argilla: Of course I wouldn't.
+
+------------------------------------------------------------
+
+Argilla: The law seems to be losing its effect on us.
+         But, why could that be?
+
+------------------------------------------------------------
+
+Argilla: It sounds to me like you knew about this all along.
+         What were you planning to do?
+
+------------------------------------------------------------
+
+%Argilla: Sera should come with us. We can't afford to have her taken again.
+
+------------------------------------------------------------
+
+%Argilla: I thought Sera was tired again, but something's different this
+          time...
+          Is she finally hungry?
+
+------------------------------------------------------------
+
+%Argilla: I remember blue, too...
+          But, how come we know that? This sky is the only one we've ever
+seen.
+
+------------------------------------------------------------
+
+%Member of the Embryon (light blue haired girl):
+     It's interesting to watch you and the others devour demons.
+     It excites me...
+     There are so many ways to devour: Teeth, claws, epidermal absorption,
+     or Ms. Argilla...
+     ...All I can do is suck them through my strawlike mouth...
+
+------------------------------------------------------------
+
+%Argilla: School...? I never heard of any Tribe like that.
+
+------------------------------------------------------------
+
+%Heat: What kinda place is paradise? I know Sera will be there...
+       I imagine a crystal blue sea... a clear, sunny sky... with you,
+       Argilla, and Cielo...
+       I wish I knew... what the hell that meant.
+
+------------------------------------------------------------
+
+%Argilla: Things will be different in Nirvana.
+          Jinana...
+
+------------------------------------------------------------
+
+%Argilla: Hey, cut it out, you two! We don't have time for this!
+          *sigh* Everything's different than it was before...
+
+------------------------------------------------------------
+
+%Argilla: All of life is a competition...
+          What's the point of surviving, then? And... why do I feel like I
+          must protect my comrades?
+          Something is wrong with this world. Like reality is... twisted.
+
+------------------------------------------------------------
+
+%Sera: Heat's words, and Argilla's feelings...
+       Which do you feel in your heart?
+
+------------------------------------------------------------
+
+- Argilla, I think.
+
+------------------------------------------------------------
+
+Sera: Argilla's feelings aren't unusual.
+                      It's a very considerate way to live, but also very
+                      dangerous.
+                      Serph, I wonder what causes such desires in humanity...
+
+------------------------------------------------------------
+
+%Argilla: This must not be the place. Svadhisthana is huge.
+
+------------------------------------------------------------
+
+Argilla: Gale!
+
+------------------------------------------------------------
+
+Argilla: She doesn't even know anything about herself.
+         How could she have such power...
+
+------------------------------------------------------------
+
+Argilla: He did that? All by himself?
+
+------------------------------------------------------------
+
+%Argilla: What's really going on? How can we understand...?
+
+------------------------------------------------------------
+
+Argilla: What a way to die...
+
+------------------------------------------------------------
+
+Argilla: Jinana...
+         It's just like Jinana.
+         Sera, can't you help him!?
+
+------------------------------------------------------------
+
+%Argilla: I felt something from Jinana, too... so I think I understand.
+
+------------------------------------------------------------
+
+%Argilla: Come to think of it...
+          Gale asked me what could make a woman cry.
+          I told him something probably made her sad... But why would he ask
+          a question like that?
+
+------------------------------------------------------------
+
+%Argilla: Jinana...
+
+------------------------------------------------------------
+
+%Argilla: I don't know, either.
+          But, I feel like I know many things that I shouldn't know.
+
+------------------------------------------------------------
+
+%Argilla: This will be the end... Right, Serph?
+          Then we can say goodbye to these bodies, and all the killing...
+
+------------------------------------------------------------
+
+%Argilla: That's Varin's headquarters?
+          Serph, isn't that...?
+
+------------------------------------------------------------
+
+(The same invisible force grabs Argilla by the neck and lifts her upward.)
+
+------------------------------------------------------------
+
+Varin's Voice (to Argilla): But, I do you remember you.
+
+------------------------------------------------------------
+
+Varin's Voice (to Argilla): How the hell can you follow the man who devoured
+                            you!?
+
+------------------------------------------------------------
+
+Argilla: What are you... talking about? I don't know --
+
+------------------------------------------------------------
+
+(Argilla is flung across the room at the wall.)
+
+------------------------------------------------------------
+
+Argilla: Varin! What did you mean, I was devoured?
+
+------------------------------------------------------------
+
+Varin (to Argilla): and you,
+
+------------------------------------------------------------
+
+Argilla: That can't be... We died!?
+
+------------------------------------------------------------
+
+%Argilla: Someone... Devoured me...?
+          Who devoured me, and... ...how?
+
+------------------------------------------------------------
+
+Argilla: So then, we... we remember these things from Nirvana?
+         We actually died before, and were sent to the Junkyard?
+         Now we're like this -- we devour each other... Jinana, Lupa...
+         So many people died...
+         And you think Sera's behind all this!?
+         How the hell could she be!?
+
+------------------------------------------------------------
+
+Argilla: Hm?
+
+------------------------------------------------------------
+
+Argilla: *Amused* ...Comrades?
+
+------------------------------------------------------------
+
+%Argilla: This... This is Sera's house. We came here all the time...
+          No... I want to remember...
+
+------------------------------------------------------------
+
+Gale: I speculate there are two types of people in the
+                      Junkyard.
+                      Those such as Heat, Argilla, Cielo and yourself, who
+                      share memories with Sera...
+                      ...and those whose past memories are lost, and who are
+                      not connected with Sera -- like Lupa and myself.
+                      However, considering Sera's house is here...
+                      It's still not clear if we all died in Nirvana, as
+                      Varin said...
+
+------------------------------------------------------------
+
+%Argilla: If we came to the Junkyard when we died, do we come back to life if
+          we reach Nirvana?
+          This world is formed through the circulation of information,
+          constantly refreshed by the rain.
+          Is something like that possible?
+
+------------------------------------------------------------
+
+%Argilla: If... If Varin was telling the truth, do you think Sera would want
+          to return to Nirvana?
+          Is it really for the best?
+
+------------------------------------------------------------
+
+%Argilla: The Karma Temple...
+          I never thought about it, but... what exactly is the Karma Temple?
+          Where did it come from?
+
+------------------------------------------------------------
+
+%Cielo: Argilla been devoured...?
+        If dat be true, it means dere be demons like us in Nirvana...
+
+------------------------------------------------------------
+
+%Argilla: If I was devoured, then I couldn't be here now, could I?
+
+------------------------------------------------------------
+
+%Argilla: Why would Gale be so different from the rest of us?
+
+------------------------------------------------------------
+
+%Argilla: I thought things were different in Nirvana, but now...
+
+------------------------------------------------------------
+
+%Argilla: I remember being here.
+          Sera, Serph, Heat, and Cielo came, too...
+          But, Gale wasn't with us.
+
+------------------------------------------------------------
+
+%Argilla: Sera said that she came to help us.
+          Is that where she went? 
+          Is she going to accomplish what she came for... alone?
+
+------------------------------------------------------------
+
+%Argilla: These are... unfinished humans...
+
+------------------------------------------------------------
+
+%Argilla: You must be suffering...
+          Hold on, Sera. We'll catch up with you, no matter what happens.
+
+------------------------------------------------------------
+
+Gale: So am I.
+                      I'm sure Heat, Argilla, and Cielo feel the same way.
+                      Let's go, Serph.
+
+------------------------------------------------------------
+
+Argilla: *Whispers* These are clouds...?
+
+------------------------------------------------------------
+
+(Argilla starts to touch one of the floating crystals, however, huge rumbling
+ began to shake the tower. The clouds dissipate and the horizon of the 
+ Junkyard erodes.)
+
+------------------------------------------------------------
+
+%Argilla: No... The Junkyard is... disappearing!
+          Our comrades are still down there!
+
+------------------------------------------------------------
+
+Argilla: Sera!
+
+------------------------------------------------------------
+
+Argilla: Don't... you can't...
+
+------------------------------------------------------------
+
+Argilla: Serph!
+
+------------------------------------------------------------
+
+%Argilla: Nobody's here... Don't tell me they've all been...!
+
+------------------------------------------------------------
+
+%Argilla: This couldn't have happened at a worse time!
+
+------------------------------------------------------------
+
+%Argilla: This Atma crap only accomplishes one thing.
+          What good is a world where one person stands alone on the bodies
+          of his slain enemies?
+
+------------------------------------------------------------
+
+%Argilla: We've killed three of them, so that means their boss must be
+          in the final area.
+          ...But, something doesn't seem right, don't you think?
+
+------------------------------------------------------------
+
+%Argilla: Let's get back to the tower, Serph.
+          It's time to face our destiny, and learn the truth about our lives.
+
+------------------------------------------------------------
+
