@@ -25,6 +25,12 @@ Run the quote finder and point it to a script file:
 python scrap.py
 ```
 
+Run the quote finder and point it to a script file with UI for easier use:
+
+```powershell
+python ui.py
+```
+
 Prompts:
 
 - Script filename (example: `script_1.txt` or `script_2.txt`)
