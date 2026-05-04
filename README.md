@@ -1,4 +1,4 @@
-# script_parsing
+# Game Script Parsing
 
 Parse game scripts for character quotes and optionally analyze them with Gemini.
 
