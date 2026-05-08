@@ -17,7 +17,7 @@ python -m venv .venv
 python -m pip install google-generativeai
 ```
 
-You can also run dockerfile 
+You can also run dockerfile
 
 ```powershell
 docker compose up --build
@@ -31,7 +31,7 @@ Run the quote finder and point it to a script file:
 python scrap.py
 ```
 
-Run the quote finder and point it to a script file with UI for easier use:
+Run the quote finder and point it to a script file with GUI for easier use:
 
 ```powershell
 python ui.py
@@ -72,6 +72,10 @@ By default the analyzer uses `gemini-1.5-flash`. You can override it with:
 $env:GEMINI_MODEL = "gemini-1.5-pro"
 ```
 
+### NOTE
+
+In this particular project, i use Google's Gemini API Key. But, you can also use other Gen AI API Keys with specified model via GUI
+
 ## Example Workflow
 
 1. Extract quotes from `script_1.txt` and save them.
@@ -81,4 +85,5 @@ $env:GEMINI_MODEL = "gemini-1.5-pro"
 ## Files
 
 - [scrap.py](scrap.py) - Quote finder
-- [chara_analysis.py](chara_analysis.py) - Gemini character analyzer
+- [chara_analysis.py](chara_analysis.py) - AI character analyzer
+- [ui.py](ui.py) - GUI for easier use
