@@ -17,6 +17,12 @@ python -m venv .venv
 python -m pip install google-generativeai
 ```
 
+You can also run dockerfile 
+
+```powershell
+docker compose up --build
+```
+
 ## Quote Extraction
 
 Run the quote finder and point it to a script file:
